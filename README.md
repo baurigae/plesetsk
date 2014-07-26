@@ -23,4 +23,4 @@ _otherwise_
 The screenshot included shows app icons in the launcher [from the Flattr set](https://github.com/NitruxSA/flattr-icons)
 
 
-**Plesetsk** is all about Ubuntu 14.04 with Unity and Gnome 3.10 - it doesn't support other DEs/WMs. 
+**Plesetsk** is all about Ubuntu 14.04 with Unity and Gnome 3.10.
