@@ -16,6 +16,8 @@ _plus_
 
 [A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
 
+![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/polaris.png)
+
 _otherwise_
 
 The screenshot included shows app icons in the launcher [from the Flattr set](https://github.com/NitruxSA/flattr-icons)
