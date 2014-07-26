@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Plesetsk
+Comment=launch country
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Plesetsk
+MetacityTheme=Plesetsk
+ButtonLayout=:minimize,maximize,close
+IconTheme=gnome
