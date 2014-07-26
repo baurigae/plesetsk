@@ -6,7 +6,7 @@ _Original theme & credit: [Flatts](http://nale12.deviantart.com/#/art/Flatts-090
 
 _WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)_
 
-_the mod_:
+_the mod_
 
 - Colorscheme customization to Unity panel, it is now dark
 - Worked around a bug that clashes with overlay scrollbars and draws black backgrounds in tabbed natilus and gedit windows, and in some Ubuntu dialogues
