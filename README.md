@@ -1,6 +1,6 @@
 ####Plesetsk is a GTK3/Unity mod (_WIP_)
 
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/baurigae/plesetsk/master/scrot.png)
 
 _Original theme & credit: [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)_
 _WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)_
