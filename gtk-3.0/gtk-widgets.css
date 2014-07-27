@@ -423,7 +423,11 @@ GtkCalendar:inconsistent {
 }
 
 GtkCalendar.view,
-GtkCalendar.header,
+GtkCalendar.header {
+    border-radius: 0;
+    background-color: @theme_bg_color;
+    border-width: 0;
+}
 GtkCalendar.button,
 GtkCalendar.button:focus,
 GtkCalendar.button:hover,
@@ -439,8 +443,8 @@ GtkCalendar.button:insensitive {
 .highlight,
 GtkCalendar.highlight {
     border-width: 0;
-    background-color: transparent;
-    color: @theme_selected_bg_color;
+    background-color: @theme_selected_bg_color;
+    color: #fff;
 }
 
 /************
@@ -823,7 +827,7 @@ GtkMenuToolButton.menu {
     border-style: none;
     background-color: @theme_base_color;
     color: @theme_text_color;
-    /*box-shadow: inset 3px 0 @theme_selected_bg_color;*/
+    box-shadow: inset 3px 0 @theme_selected_bg_color;
 }
 .menu {
 

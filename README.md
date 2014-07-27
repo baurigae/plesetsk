@@ -22,5 +22,7 @@ _otherwise_
 
 The screenshot included shows app icons in the launcher [from the Flattr set](https://github.com/NitruxSA/flattr-icons)
 
+The panel transparency is set to 70 via Unity Tweak Tool
+
 
 **Plesetsk** is all about Ubuntu 14.04 with Unity and Gnome 3.10.
