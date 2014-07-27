@@ -823,7 +823,7 @@ GtkMenuToolButton.menu {
     border-style: none;
     background-color: @theme_base_color;
     color: @theme_text_color;
-    box-shadow: inset 3px 0 @theme_selected_bg_color;
+    /*box-shadow: inset 3px 0 @theme_selected_bg_color;*/
 }
 .menu {
 
@@ -884,7 +884,7 @@ GtkMenuToolButton.menu {
     background-color: @theme_base_color;
     background-image: none;
     color: @theme_text_color;
-    box-shadow: inset 3px 0 @theme_selected_bg_color;
+    /*box-shadow: inset 3px 0 @theme_selected_bg_color;*/
 }
 
 .menubar .menuitem *:hover {
