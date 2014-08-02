@@ -20,7 +20,7 @@ _plus_
 
 _otherwise_
 
-The screenshot included shows app icons in the launcher [from the Flattr set](https://github.com/NitruxSA/flattr-icons)
+The screenshot included shows icons [from the Flattr set](https://github.com/NitruxSA/flattr-icons)
 
 The panel transparency is set to 70 via Unity Tweak Tool
 
