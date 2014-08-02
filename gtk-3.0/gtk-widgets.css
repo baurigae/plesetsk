@@ -750,7 +750,7 @@ GtkInfoBar {
 .floating-bar {
     border-width: 3px;
     border-style: none;
-    border-radius: 0;
+    border-radius: 0px;
     background-color: @theme_bg_color;
     background-image: none;
     color: @theme_fg_color;
@@ -1437,7 +1437,7 @@ GtkComboBox .separator {
 .sidebar GtkScrolledWindow {
     -GtkScrolledWindow-scrollbar-spacing: 0;
     -GtkScrolledWindow-scrollbars-within-bevel: 0;
-    background-color: @theme_base_color;
+    background-color: #F8F9FA;
     color: @theme_text_color;
 }
 
@@ -2265,7 +2265,7 @@ GtkColorButton.button {
 .inline-toolbar.toolbar GtkToolButton:only-child .button,
 .inline-toolbar.toolbar GtkToolButton:only-child .button:active,
 .inline-toolbar.toolbar GtkToolButton:only-child .button:insensitive {
-    border-width: 1px;
+ border-width: 1px;
     border-radius: 0;
     border-color: transparent;
     border-style: solid;
@@ -2342,7 +2342,7 @@ GtkColorButton.button {
 .linked.vertical .button:active,
 .linked.vertical .button:active:hover,
 .linked.vertical .button:insensitive {
-    border-width: 1px;
+border-width: 1px;
     border-radius: 0;
     border-color: transparent;
     border-style: solid;
@@ -2354,6 +2354,7 @@ GtkColorButton.button {
 .linked.vertical .button:active:first-child,
 .linked.vertical .button:active:hover:first-child,
 .linked.vertical .button:insensitive:first-child {
+
 
 }
 
@@ -2412,7 +2413,7 @@ GtkColorButton.button {
 .header-bar .button.raised.linked:active,
 .header-bar .raised.linked .button:active,
 .header-bar .linked .button:active {
-    background-color: @theme_selected_bg_color;
+    background-color: #999DA1;
     color: @theme_selected_fg_color;
 }
 .primary-toolbar .linked .button:active:hover,
@@ -2424,7 +2425,7 @@ GtkColorButton.button {
 .header-bar .button.raised.linked:active:hover,
 .header-bar .raised.linked .button:active:hover,
 .header-bar .linked .button:active:hover {
-    background-color: shade(@theme_selected_bg_color, 1.05);
+    background-color: shade(#999DA1, 1.08);
 }
 .primary-toolbar .linked .button:insensitive,
 .primary-toolbar .button.raised.linked:insensitive,

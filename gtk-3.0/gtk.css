@@ -3,9 +3,11 @@
 @define-color bg_color #eeeeee;
 @define-color fg_color #6A6B6C;
 @define-color base_color #fff;
-@define-color text_color #78797A;
-@define-color selected_bg_color #6CA4E6;
-@define-color selected_fg_color #f7f7f7;
+@define-color text_color #6A6B6C;
+/*@define-color selected_bg_color #6CA4E6;
+@define-color selected_fg_color #fff;*/
+@define-color selected_bg_color #3D9BDA;
+@define-color selected_fg_color #fff;
 @define-color tooltip_bg_color #dddddd;
 @define-color tooltip_fg_color #555555;
 
