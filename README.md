@@ -16,7 +16,7 @@ _plus_
 
 [A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
 
-![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/polaris.png)
+![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/polarisscrot.png)
 
 _otherwise_
 
