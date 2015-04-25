@@ -14,7 +14,7 @@ _the mod_
 
 _plus_
 
-[A Firefox (30, 31) style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
+[A Firefox (30-37) style](https://github.com/baurigae/firefox-mods/blob/master/polaris.css)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/firefox-mods/master/polarisscrot.png)
 
