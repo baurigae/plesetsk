@@ -4,8 +4,6 @@
 
 _Original theme & credit: [Flatts](http://nale12.deviantart.com/#/art/Flatts-09022014-432924057?hf=1)_
 
-_WM buttons [from here](http://vinceliuice.deviantart.com/#/art/Flattice-461445311?hf=1)_
-
 _the mod_
 
 - Colorscheme changes to Unity panel, it is now dark; colorscheme changes to widgets (linked buttons, sidepane) affecting Nautilus
