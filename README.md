@@ -1,4 +1,4 @@
-####Plesetsk is a GTK3/Unity mod (_WIP_)
+#### Plesetsk is a GTK3/Unity mod (_WIP_)
 
 ![alt tag](https://raw.githubusercontent.com/baurigae/plesetsk/master/scrot.png)
 
